@@ -1,4 +1,4 @@
-- myeonghoon 브렌치
+-> myeonghoon 브렌치
   기능 구현 목표: 추천한 장소들을 기반으로 장소들의 위치, 정보 그리고 경로를 생성 및 제공하는 기능 구현
   
 # 2025 GDGoC Winter 프로젝트 Team2. AI Part
