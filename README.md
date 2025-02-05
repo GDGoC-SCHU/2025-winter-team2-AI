@@ -5,6 +5,7 @@
 -> 추천한 장소들을 기반으로 장소들의 추천 경로를 제공하는 기능 구현
 
 Google Colab 환경 - 파이썬 사용
+
 Naver Map API
 - Web Dynamic Map
 - Direction 5
